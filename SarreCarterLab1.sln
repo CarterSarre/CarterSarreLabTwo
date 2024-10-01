@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarreCarterLab1", "SarreCarterLab1\SarreCarterLab1.csproj", "{3B8D1044-4E8D-4542-9D35-6B764BDF2ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SarreCarterLab1", "SarreCarterLab1\SarreCarterLab1.csproj", "{3B8D1044-4E8D-4542-9D35-6B764BDF2ACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94A19E5F-C5F8-4C83-B5E4-A2FF7E539596}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
