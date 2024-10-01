@@ -3,7 +3,7 @@
     "mssql1": {
       "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/SarreCarterLab2/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDefaultConnection_879EF85766",
       "secretStore": "AzureAppSettings",
-      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sarrecarterlab1dbserver/databases/SarreCarterLab1_db",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sarrecarterlab2dbserver/databases/SarreCarterLab2_db",
       "type": "mssql.azure",
       "connectionId": "ConnectionStrings:DefaultConnection",
       "dynamicId": null
